@@ -3,7 +3,7 @@ import MagicButton from "./ui/MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import {
   TextGenerateEffect,
-  TextGenerateEffectDemo,
+  // TextGenerateEffectDemo,
 } from "./ui/TextGenerationEffect";
 
 const Hero = () => {
